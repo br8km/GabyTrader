@@ -1,4 +1,4 @@
-"# GabyTrader" 
+# GabyTrader
 
 
 ### Features
