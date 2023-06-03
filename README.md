@@ -3,9 +3,9 @@
 
 ### Features
 
-- Crypto trading
-- Fast
-- Auto
+- Crypto Trading
+- Fast Trading
+- Automatic Trading
 
 
 
