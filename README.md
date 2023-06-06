@@ -29,6 +29,23 @@
 
 
 
+### Reference
+
+- Company
+	- https://tradingview.com/
+	
+	
+- Software
+	- https://github.com/wondertrader/wondertrader		-- C++
+	- https://www.freqtrade.io/en/stable/				-- Python
+
+	- https://github.com/microsoft/qlib					-- Python
+	- https://github.com/jesse-ai/jesse					-- Python
+
+
+- Discussion
+	- https://bitcointalk.org/
+
 
 
 
